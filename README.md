@@ -13,4 +13,4 @@ Transfer Learning with Imbalanced Training Data: Address the problem of imbalanc
 Anomaly Detection for Healthy Cases: Given a dataset comprising only "healthy" images, implement anomaly detection techniques to identify "unhealthy" cases.
 
 
-To understand how to run the project please refer to the  readme_Hebrew files.
+To understand how to run the project please refer to the  readme_He.docx files.
