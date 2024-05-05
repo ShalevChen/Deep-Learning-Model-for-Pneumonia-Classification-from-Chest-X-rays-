@@ -1,3 +1,7 @@
+Deep Learning Model for Pneumonia Classification from Chest X-rays . Using Python
+
+
+
 This project focuses on classifying chest X-ray images into two main categories: healthy and pneumonia cases. Pneumonia cases are further divided into two subcategories: bacterial pneumonia and viral pneumonia.
 
 The dataset used for training is sourced from Kaggle, comprising 5863 chest X-ray images categorized into the aforementioned groups.
